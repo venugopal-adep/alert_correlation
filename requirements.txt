@@ -1,0 +1,6 @@
+streamlit
+plotly
+numpy
+pandas
+scikit-learn
+wordcloud
